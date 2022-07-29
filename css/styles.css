@@ -1,20 +1,12 @@
-.content-bg-info{
-    background-color: #F4FAFD! important;
+.content-bg-info {
+  background-color: #f4fafd !important;
 }
-.content-bg-primary{
-    background-color: #289BDE;
+.content-bg-primary {
+  background-color: #289bde;
 }
-.btn-text-primary:hover{
-    color: white;
+.btn-text-primary:hover {
+  color: white;
 }
-
-
-
-
-
 .carousel-item {
-	
-    
-    opacity: .5; 
-    
+  opacity: 0.5;
 }
