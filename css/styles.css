@@ -4,3 +4,17 @@
 .content-bg-primary{
     background-color: #289BDE;
 }
+.btn-text-primary:hover{
+    color: white;
+}
+
+
+
+
+
+.carousel-item {
+	
+    
+    opacity: .5; 
+    
+}
